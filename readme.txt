@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 author
 Creating a new branch is quick and simple.
 hello 
+first commit
