@@ -5,3 +5,4 @@ author
 Creating a new branch is quick and simple.
 hello 
 first commit
+second commit 
